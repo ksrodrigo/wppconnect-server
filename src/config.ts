@@ -1,11 +1,11 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'DFAQdcb1dO6LdbBYOMRUQuZHorfODo',
-  host: 'http://18.230.176.57',
+  secretKey: 'THISISMYSECURETOKEN',
+  host: 'http://localhost',
   port: '21465',
-  deviceName: 'OuiChef',
-  poweredBy: 'Kernel-Sistemas',
+  deviceName: 'WppConnect',
+  poweredBy: 'WPPConnect-Server',
   startAllSession: true,
   tokenStoreType: 'file',
   maxListeners: 15,
